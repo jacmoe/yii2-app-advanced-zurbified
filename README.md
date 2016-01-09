@@ -1,7 +1,7 @@
-Yii 2 Advanced Gulp Sass Project Template
+Yii 2 Advanced Gulp Sass Application Template using Zurb Foundation for Sites
 ===============================
 
-Yii 2 Advanced Gulp Sass Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application for
+Yii 2 Advanced Gulp Sass Application Template using Zurb Foundation for Sites is a skeleton [Yii 2](http://www.yiiframework.com/) application for
 developing complex Web applications with multiple tiers.
 
 The template includes three tiers: front end, back end, and console, each of which
@@ -12,8 +12,8 @@ deploying the application in different environments.
 
 Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
-[![Latest Stable Version](https://poser.pugx.org/jacmoe/yii2-app-advanced-gulp-sass/v/stable.png)](https://packagist.org/packages/jacmoe/yii2-app-advanced-gulp-sass)
-[![Total Downloads](https://poser.pugx.org/jacmoe/yii2-app-advanced-gulp-sass/downloads.png)](https://packagist.org/packages/jacmoe/yii2-app-advanced-gulp-sass)
+[![Latest Stable Version](https://poser.pugx.org/jacmoe/yii2-app-advanced-zurbified/v/stable.png)](https://packagist.org/packages/jacmoe/yii2-app-advanced-zurbified)
+[![Total Downloads](https://poser.pugx.org/jacmoe/yii2-app-advanced-zurbified/downloads.png)](https://packagist.org/packages/jacmoe/yii2-app-advanced-zurbified)
 
 # Installation
 ## Prerequisites
