@@ -45,6 +45,31 @@ initialize the application, choose "development"
 ./init
 ```
 
+### Post-installation
+Install the node modules by running this command at the project root directory:
+```
+npm install
+```
+After a successful install, build the project using:
+```
+gulp build
+```
+
+To launch a browser window and watch the project for changes:
+~~~
+gulp
+~~~
+
+To build optimized for production (minification, etc) specify the `production` flag:
+
+~~~
+gulp build --production
+~~~
+and/or
+~~~
+gulp --production
+~~~
+
 DIRECTORY STRUCTURE
 -------------------
 
